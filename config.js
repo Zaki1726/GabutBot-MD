@@ -20,11 +20,11 @@ global.APIKeys = {
 
 // Configuration BOT
 
-global.owner = ['628116646665'] //Nomor lu
-global.premium = ['628116646665'] //Nomor lu
-global.packname = 'GabutBot-MD' //Nama bot lu utk wm stiker
-global.author = 'ShinySebastian' //Nama lu utk wm stiker
-global.sessionName = 'gabutbot' //Nama session
+global.owner = ['6285817964582'] //Nomor lu
+global.premium = ['6285817964582'] //Nomor lu
+global.packname = 'AmOwner-MD' //Nama bot lu utk wm stiker
+global.author = 'AmOwner' //Nama lu utk wm stiker
+global.sessionName = 'owner' //Nama session
 global.prefa = ['','!','.','🐦','🐤','🗿'] //Prefix bot serah lo mau ubah atau ga
 global.sp = '⭔'
 global.mess = {
@@ -42,7 +42,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/arietube.jpg')
+global.thumb = { url: 'https://telegra.ph/file/479d488634df9171d6975.jpg' }
 global.vitube = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 //Jangan diubah nanti bisa eror nangis
